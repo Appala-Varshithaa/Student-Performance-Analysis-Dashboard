@@ -136,14 +136,11 @@ The data was cleaned and transformed using **Power Query** by:
 ```
 Student-Performance-Analysis/
 │
-├── Student Performance Dashboard.pbix
+├── Student Performance Analysis.png
 ├── README.md
 ├── requirements.txt
 ├── dataset/
-│   └── student_performance.csv
-├── screenshots/
-│   └── dashboard.png
-
+│   └── student_performance_100.xlsx
 ```
 
 ---
